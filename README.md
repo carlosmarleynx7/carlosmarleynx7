@@ -40,17 +40,9 @@ Sou **Carlos Marley**, estudante de **Engenharia de Software**. Gosto de criar a
 
 ## 🗺️ Mundos em construção
 
-**🖥️ LabControl**  
+**🖥️ LabControlPI**  
 Sistema de gestão para laboratórios de informática.  
-[Explorar projeto →](https://github.com/carlosmarleynx7?tab=repositories&q=LabControl)
-
-**🗣️ Voz do Aluno**  
-Plataforma voltada à participação da comunidade escolar.  
-[Explorar projeto →](https://github.com/carlosmarleynx7?tab=repositories&q=vozdoaluno)
-
-**📅 Gerador de Horário Escolar**  
-Ferramenta para apoiar a organização dos horários escolares.  
-[Explorar projeto →](https://github.com/carlosmarleynx7?tab=repositories&q=horario)
+[Explorar projeto →](https://labcontrolpi.com.br/)
 
 <sub>Os links acima procuram os projetos nos meus repositórios. Substituirei por links diretos quando estiverem públicos.</sub>
 
